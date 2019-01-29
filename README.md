@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/168063343.svg)](https://zenodo.org/badge/latestdoi/168063343)
+
+
 <center>
 <img src="https://i.imgur.com/PdfGGVZ.png" style="width: 300px;"/>
 </center>
